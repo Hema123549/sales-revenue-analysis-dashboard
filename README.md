@@ -88,5 +88,5 @@ Through this project, I gained practical experience in:
 
 **Hema M**
 
-Computer Science Undergraduate  
+BSc Computer Science   
 Jeppiaar University
